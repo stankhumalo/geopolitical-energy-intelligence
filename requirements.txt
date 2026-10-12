@@ -1,0 +1,4 @@
+- Python
+- Pandas for data cleaning and analysis
+- NumPy and Matplotlib available for future analysis and visualisation
+- Historical Brent crude oil price CSV data (unsure of accuracy)
